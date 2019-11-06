@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "0fd0b660_e2dac348",
+        "filename": "INFO.yaml",
+        "patchSetId": 4
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1000246
+      },
+      "writtenOn": "2019-11-06T23:55:05Z",
+      "side": 1,
+      "message": "Link states that Jackie should only have committer rights for pti/rtp. Please confirm if he should have access to this repository, or not, and if so, a link to the confirmation message. \nAlso, one name per type (addition/removal), but no biggie, just to keep things nice and neat.",
+      "range": {
+        "startLine": 53,
+        "startChar": 0,
+        "endLine": 53,
+        "endChar": 2
+      },
+      "revId": "a9ec601e4691ffd28c1b26f67f89db819e17e77a",
+      "serverId": "84e4e190-e623-4c37-9eda-58b1937c1b53",
+      "unresolved": true
+    }
+  ]
+}
